@@ -1,12 +1,6 @@
 ﻿
 #include <iostream>
-#include <nlohmann/json.hpp>
-#include <fstream>
-#include <iomanip>
-#include <stdio.h>
-#include <typeinfo>
 #include <Windows.h>
-#include <sqlite3.h>
 #include <atlbase.h>
 
 using namespace std;
